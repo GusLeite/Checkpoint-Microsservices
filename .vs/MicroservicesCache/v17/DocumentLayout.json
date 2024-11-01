@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CP\\MicroservicesCache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\web-app-performance\\Controllers\\ProdutoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:web-app-performance\\Controllers\\ProdutoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\web-app-domain\\web-app-domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:web-app-domain\\web-app-domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\web-app-domain\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:web-app-domain\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\web-app-domain\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:web-app-domain\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\test\\UsuarioRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\UsuarioRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\test\\UsuarioControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\UsuarioControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\test\\ProdutoRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\ProdutoRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\test\\ProdutoControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\ProdutoControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\Consumidor.Mensageria\\Consumidor.Mensageria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Consumidor.Mensageria\\Consumidor.Mensageria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\Consumidor.Mensageria\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Consumidor.Mensageria\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CP\\MicroservicesCache\\web-app-performance\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:web-app-performance\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\web-app-performance\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\web-app-performance\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "web-app-performance\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAG4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:20:23.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "web-app-domain.csproj",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\web-app-domain\\web-app-domain.csproj",
+              "RelativeDocumentMoniker": "web-app-domain\\web-app-domain.csproj",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\web-app-domain\\web-app-domain.csproj",
+              "RelativeToolTip": "web-app-domain\\web-app-domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T01:20:16.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.csproj",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\test\\test.csproj",
+              "RelativeDocumentMoniker": "test\\test.csproj",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\test\\test.csproj",
+              "RelativeToolTip": "test\\test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T01:18:26.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioControllerTest.cs",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\test\\UsuarioControllerTest.cs",
+              "RelativeDocumentMoniker": "test\\UsuarioControllerTest.cs",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\test\\UsuarioControllerTest.cs",
+              "RelativeToolTip": "test\\UsuarioControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowCkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:17:25.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepositoryTest.cs",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\test\\UsuarioRepositoryTest.cs",
+              "RelativeDocumentMoniker": "test\\UsuarioRepositoryTest.cs",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\test\\UsuarioRepositoryTest.cs",
+              "RelativeToolTip": "test\\UsuarioRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:17:29.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\web-app-domain\\Produto.cs",
+              "RelativeDocumentMoniker": "web-app-domain\\Produto.cs",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\web-app-domain\\Produto.cs",
+              "RelativeToolTip": "web-app-domain\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:17:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\web-app-domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "web-app-domain\\Usuario.cs",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\web-app-domain\\Usuario.cs",
+              "RelativeToolTip": "web-app-domain\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:17:27.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoRepositoryTest.cs",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\test\\ProdutoRepositoryTest.cs",
+              "RelativeDocumentMoniker": "test\\ProdutoRepositoryTest.cs",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\test\\ProdutoRepositoryTest.cs",
+              "RelativeToolTip": "test\\ProdutoRepositoryTest.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:18:13.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoControllerTest.cs",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\test\\ProdutoControllerTest.cs",
+              "RelativeDocumentMoniker": "test\\ProdutoControllerTest.cs",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\test\\ProdutoControllerTest.cs",
+              "RelativeToolTip": "test\\ProdutoControllerTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:16:40.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Consumidor.Mensageria.csproj",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\Consumidor.Mensageria\\Consumidor.Mensageria.csproj",
+              "RelativeDocumentMoniker": "Consumidor.Mensageria\\Consumidor.Mensageria.csproj",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\Consumidor.Mensageria\\Consumidor.Mensageria.csproj",
+              "RelativeToolTip": "Consumidor.Mensageria\\Consumidor.Mensageria.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T01:17:34.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\Consumidor.Mensageria\\Program.cs",
+              "RelativeDocumentMoniker": "Consumidor.Mensageria\\Program.cs",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\Consumidor.Mensageria\\Program.cs",
+              "RelativeToolTip": "Consumidor.Mensageria\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:14:23.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CP\\MicroservicesCache\\web-app-performance\\Program.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Program.cs",
+              "ToolTip": "C:\\CP\\MicroservicesCache\\web-app-performance\\Program.cs",
+              "RelativeToolTip": "web-app-performance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:15:44.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
